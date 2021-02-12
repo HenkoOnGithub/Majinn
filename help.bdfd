@@ -1,0 +1,9 @@
+$nomention
+$author[Prefix : `.`]
+$title[Help Command]
+$addField[**__Utilitaire__**;
+`.invite`, `.stats`,  `.ping`]
+$addField[**__Modération__**;
+`.ban`, `.unban`, `.clear`]
+$addField[**__Fun__**;
+`.hug`, `.kiss`, `.punch`, `.kill`,]
