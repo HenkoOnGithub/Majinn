@@ -1,0 +1,8 @@
+$nomention
+$title[Statistiques]
+$addField[`📥` Servers;
+$serverCount]
+$addField[`👥` Membres;
+$allMembersCount]
+$addField[`⏰` Uptime;
+$uptime]
